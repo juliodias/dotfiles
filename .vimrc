@@ -20,6 +20,10 @@ set shiftwidth=4
 set expandtab
 " }}}
 
+" Layout {{{
+set number
+" }}}
+
 " Searching {{{
 set ignorecase
 " }}}
