@@ -1,0 +1,16 @@
+# Navigation
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+
+# Listing
+alias ll="ls -la" 
+
+# Shortcuts
+alias docs="cd ~/Documents"
+alias desktop=cd "cd ~/Desktop"
+alias downloads="cd ~/Downloads"
+
+# Miscellaneous
+alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
+
