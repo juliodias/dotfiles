@@ -6,6 +6,6 @@ brew install 'npm'
 brew install 'vim'
 brew install 'openssl'
 
-cask install 'docker'
+brew cask install 'docker'
 
 brew cleanup
