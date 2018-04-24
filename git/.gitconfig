@@ -4,3 +4,11 @@
 [user]
     name = Julio Dias
     email = julioocdias@gmail.com
+
+[alias]
+    st = status
+    di = diff
+    br = branch
+    sta = stash
+    co = checkout
+    cm = commit
