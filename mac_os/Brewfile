@@ -7,5 +7,6 @@ brew install 'vim'
 brew install 'openssl'
 
 brew cask install 'docker'
+brew cask install 'alfred'
 
 brew cleanup
