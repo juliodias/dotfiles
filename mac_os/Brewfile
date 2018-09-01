@@ -4,6 +4,7 @@ brew tap caskroom/cask
 brew install 'git'
 brew install 'npm'
 brew install 'vim'
+brew install 'wget'
 brew install 'openssl'
 
 brew cask install 'docker'
