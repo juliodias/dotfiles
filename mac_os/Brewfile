@@ -9,5 +9,6 @@ brew install 'openssl'
 
 brew cask install 'docker'
 brew cask install 'alfred'
+brew cask install 'iterm2'
 
 brew cleanup
