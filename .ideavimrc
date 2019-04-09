@@ -12,7 +12,7 @@ nnoremap <leader>B :action ViewBreakpoints<cr>
 nnoremap <leader>b :action ToggleLineBreakpoint<cr>
 
 # Classes
-nnoremap <leader>D :action GoToImplementation<cr>
+nnoremap <leader>D :action GotoImplementation<cr>
 
 # Find
 nnoremap <leader>f :action FindUsages<cr>
