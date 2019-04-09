@@ -1,14 +1,21 @@
 brew update
+
+# Taps
+brew tap homebrew/core
 brew tap caskroom/cask
 
-brew install 'git'
-brew install 'npm'
-brew install 'vim'
-brew install 'wget'
-brew install 'openssl'
+brew 'git'
+brew 'vim'
+brew 'curl'
+brew 'wget'
+brew 'npm'
+brew 'openssl'
 
-brew cask install 'docker'
-brew cask install 'alfred'
-brew cask install 'iterm2'
+cask 'alfred'
+cask 'iterm2'
+cask 'slack'
+cask 'virtualbox'
+cask 'docker'
+cask 'google-chrome'
 
 brew cleanup
