@@ -1,5 +1,7 @@
 # Load custom changes from my .vimrc
-source ../vim/.vimrc
+source $DOT_FILES/vim/.vimrc
+
+set surround
 
 # Errors
 nnoremap <leader>e :action GotoNextError<cr>
