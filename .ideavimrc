@@ -23,3 +23,8 @@ nnoremap <leader>j :action GotoTest<cr>
 # Find
 nnoremap <leader>f :action FindUsages<cr>
 nnoremap <leader>F :action FindInPath<CR>
+
+# Vim Registers
+nmap <a-r> :reg<cr>
+nmap <a-1> "1p
+nmap <a-2> "2p
