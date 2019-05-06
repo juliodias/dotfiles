@@ -7,6 +7,9 @@ set surround
 nnoremap <leader>e :action GotoNextError<cr>
 nnoremap <leader>E :action GotoPreviousError<cr>
 
+# Tips
+nnoremap <leader>ti :action ShowTips<cr>
+
 # Breakpoint
 nnoremap <leader>B :action ViewBreakpoints<cr>
 nnoremap <leader>b :action ToggleLineBreakpoint<cr>
