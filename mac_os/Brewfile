@@ -10,6 +10,7 @@ brew 'curl'
 brew 'wget'
 brew 'npm'
 brew 'openssl'
+brew 'zsh'
 
 cask 'alfred'
 cask 'iterm2'
