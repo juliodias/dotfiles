@@ -14,6 +14,7 @@ brew 'openssl'
 brew 'zsh'
 
 cask 'alfred'
+cask 'caffeine'
 cask 'iterm2'
 cask 'slack'
 cask 'virtualbox'
