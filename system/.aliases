@@ -12,6 +12,9 @@ alias docs="cd ~/Documents"
 alias desktop=cd "cd ~/Desktop"
 alias downloads="cd ~/Downloads"
 
+# Recursively remove .DS_Store files
+alias cleanupds="find . -type f -name '*.DS_Store' -ls -delete"
+
 # Miscellaneous
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
 
