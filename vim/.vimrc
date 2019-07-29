@@ -22,6 +22,7 @@ set expandtab
 
 " Layout {{{
 set number
+set relativenumber
 " }}}
 
 " Searching {{{
