@@ -21,6 +21,7 @@ set expandtab
 " }}}
 
 " Layout {{{
+set cursorline
 set number
 set relativenumber
 " }}}
