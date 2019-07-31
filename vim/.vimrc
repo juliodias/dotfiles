@@ -2,9 +2,11 @@
 
 " Global Configurations {{{
 set nocompatible
+set history=100
 set encoding=utf-8
 set fileencoding=utf-8
 
+set showmode
 set t_Co=256
 " }}}
 
