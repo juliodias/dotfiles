@@ -31,3 +31,10 @@ set relativenumber
 " Searching {{{
 set ignorecase
 " }}}
+
+" Buffers {{{
+
+" Go to previous/next buffer using Ctrl+K and Ctrl+J
+map <C-K> :bprev<CR>
+map <C-J> :bnext<CR>
+" }}}
