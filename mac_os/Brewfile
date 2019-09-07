@@ -12,6 +12,7 @@ brew 'wget'
 brew 'npm'
 brew 'openssl'
 brew 'zsh'
+brew 'z'
 
 cask 'alfred'
 cask 'caffeine'
